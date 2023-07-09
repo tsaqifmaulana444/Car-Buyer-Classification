@@ -2,7 +2,7 @@ There are many indicators for people to buy a car, but in this project, the buye
 
 I use decision tree to classify the buyer in this case
 
-### Language and Tools
+# Language and Tools
 - python
 - jupyter notebook
 - pandas
@@ -11,5 +11,5 @@ I use decision tree to classify the buyer in this case
 - scikitlearn
 - ipythonplus
 - 
-### Dataset
+# Dataset
 https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset
